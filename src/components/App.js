@@ -7,15 +7,21 @@ const games = [
     location: "Mt Eden (Auckland Grammar)",
     time: "Thursday, 7:00 PM",
     price: "$10",
-    tags: ["All Abilities", "Outdoor", "4G Turf"]
+    tags: ["All Abilities", "Outdoor", "4G Turf","]
   },
+  id: 3,
+    name: "Wednesday 5-a-side",
+    location: "Albany Football Hub",
+    time: "Wednesday, 6:45 PM",
+    price: "$10",
+    tags: ["All Abilities", "Outdoor", "4G Turf", "Women's ONLY" ]
   {
-    id: 2,
+    id: 3,
     name: "Sunday Social Game",
     location: "Albany Football Hub",
     time: "Sunday, 3:00 PM",
     price: "$12",
-    tags: ["Casual", "Outdoor"]
+    tags: ["Casual", "Outdoor", "90 minutes", "Mini tourn if 10 plus", "Men & Women"]
   }
 ];
 
